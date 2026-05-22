@@ -8,13 +8,13 @@ The project recreates a modern SaaS-style hero section with floating tilted card
 
 ## Live Demo
 
-**Vercel Link:** Add your deployed Vercel link here
+**Vercel Link:** [https://floating-hero-silk.vercel.app/]
 
 ---
 
 ## Screenshots
 
-> Place screenshots inside: `public/screenshots/`
+
 
 ### Light Mode
 
