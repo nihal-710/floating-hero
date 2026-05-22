@@ -18,11 +18,11 @@ The project recreates a modern SaaS-style hero section with floating tilted card
 
 ### Light Mode
 
-![Light Mode Screenshot](./public/screenshots/light-mode.png)
+![Light Mode Screenshot](public/screenshots/light-mode.png)
 
 ### Dark Mode
 
-![Dark Mode Screenshot](./public/screenshots/dark-mode.png)
+![Dark Mode Screenshot](public/screenshots/dark-mode.png)
 
 ---
 
